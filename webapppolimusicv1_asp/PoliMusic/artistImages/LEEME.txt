@@ -1,0 +1,7 @@
+Carpeta de imagenes de artistas.
+
+La base de datos guarda la ruta en TBL_ARTIST.ARTIST_IMAGE con el formato:
+    ~/artistImages/nombre-del-archivo.jpg
+
+Formatos admitidos: jpg, jpeg, png, webp, gif.
+Si el archivo no existe, la interfaz genera un avatar con las iniciales del artista.

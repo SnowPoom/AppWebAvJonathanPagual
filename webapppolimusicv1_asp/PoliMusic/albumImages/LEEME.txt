@@ -1,0 +1,7 @@
+Carpeta de portadas de albumes.
+
+La base de datos guarda la ruta en TBL_ALBUM.ALBUM_IMAGE_PATH con el formato:
+    ~/albumImages/nombre-del-archivo.png
+
+Formatos admitidos: jpg, jpeg, png, webp, gif.
+Si el archivo no existe, la interfaz genera una portada con las iniciales del album.
