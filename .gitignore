@@ -94,3 +94,5 @@ obj
 .csproj.user
 *.user
 .vs
+/packages
+/webapppolimusicv1_asp
